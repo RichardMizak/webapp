@@ -3,7 +3,7 @@
     <title>Title</title>
 </head>
 <body>
-<H1>It works !</H1>
-<a href="hello"> Hello world - register</a>
+<H1>Hi, how are you ?</H1>
+<a href="hello/hello-world"> Hello world - register</a>
 </body>
 </html>
